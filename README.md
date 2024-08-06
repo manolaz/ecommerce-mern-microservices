@@ -1,2 +1,2 @@
-# ecommerce-mern-microservices
-ecommerce-mern-microservices
+# ecommerce-mevn-microservices
+ecommerce-mevn-microservices
